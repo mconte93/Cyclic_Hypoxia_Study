@@ -1,8 +1,19 @@
-This repository contains all the data and codes used in the paper
+# Cyclic_Hypoxia_Study_ConteEtAl2024
+This repository contains all the data and codes used to perform simulations as described in
 
-"Emergence of Cyclic Hypoxia and the Impact of PARP Inhibitors on Tumor Progression"
+Conte, Martina, et al. "Emergence of cyclic hypoxia and the impact of PARP inhibitors on tumor progression." npj Systems Biology and Applications 10.1 (2024): 122.
 
-by Martina Conte, Vanesa Cabeza Fernández, F. Javier Oliver,Tomás Alarcón, Juan Soler.
+The published version of the paper can be found at the link https://doi.org/10.1038/s41540-024-00453-2
+For details we refer the interested reader to this publication. If you use this software in your work then please cite the above named paper.
+
+### Copyright notice
+
+Cyclic_Hypoxia_Study_ConteEtAl2024: Matlab code to simulate the model for describing tumor evolution in normoxic and hypoxic conditions and its response to different treatment options.   
+Copyright (C) 2024 M. Conte
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
+
+## Organization of the repository
 
 This repository is organized as follows.
 
